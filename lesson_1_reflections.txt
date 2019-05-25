@@ -29,7 +29,7 @@ How can you use the commands git log and git diff to view the history of files?
 
     git log gives you a track of all commits made to the project, and by using git diff
     you can compare two different commits in time, to check the history of changes
-    
+       
 
 How might using version control make you more confident to make changes that
 could break something?
